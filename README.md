@@ -168,8 +168,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![](./base.png)
-![](./cal.png)
-
+![](./out1.png)
+![](./out2.png)
 ## Result:
 The Program for design a standard calculator using the html is exectued successfully
