@@ -168,6 +168,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![](./base.png)
 ![](./cal.png)
 
 ## Result:
