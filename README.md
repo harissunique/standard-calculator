@@ -172,4 +172,4 @@ Publish the website in the given URL.
 ![](./file2.png)
 
 ## Result:
-The Program for design a standard calculator using the html is exectued successfully
+The Program for design a standard calculator using the html is exectued successfully.
